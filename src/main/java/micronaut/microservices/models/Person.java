@@ -1,4 +1,4 @@
-package micronault.microservices.models;
+package micronaut.microservices.models;
 
 import javax.validation.constraints.*;
 

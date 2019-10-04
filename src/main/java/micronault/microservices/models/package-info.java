@@ -1,1 +1,0 @@
-package micronault.microservices.models;

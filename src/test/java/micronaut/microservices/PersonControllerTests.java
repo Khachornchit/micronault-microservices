@@ -1,4 +1,4 @@
-package micronault.microservices;
+package micronaut.microservices;
 
 import java.net.MalformedURLException;
 import java.net.URL;
@@ -13,8 +13,8 @@ import io.micronaut.http.client.HttpClient;
 import io.micronaut.http.client.exceptions.HttpClientResponseException;
 import io.micronaut.runtime.server.EmbeddedServer;
 import io.micronaut.test.annotation.MicronautTest;
-import micronault.microservices.models.Gender;
-import micronault.microservices.models.Person;
+import micronaut.microservices.models.Gender;
+import micronaut.microservices.models.Person;
 
 @MicronautTest
 public class PersonControllerTests {

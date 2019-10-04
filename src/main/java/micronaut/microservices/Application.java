@@ -1,4 +1,4 @@
-package micronault.microservices;
+package micronaut.microservices;
 
 import io.micronaut.runtime.Micronaut;
 

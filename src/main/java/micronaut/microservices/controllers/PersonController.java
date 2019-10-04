@@ -1,4 +1,4 @@
-package micronault.microservices.controllers;
+package micronaut.microservices.controllers;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -14,7 +14,7 @@ import io.micronaut.http.annotation.Controller;
 import io.micronaut.http.annotation.Get;
 import io.micronaut.http.annotation.Post;
 import io.micronaut.validation.Validated;
-import micronault.microservices.models.Person;
+import micronaut.microservices.models.Person;
 
 @Controller("/persons")
 @Validated
