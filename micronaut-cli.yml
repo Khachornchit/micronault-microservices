@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: micronault.microservices
+---
+testFramework: junit
+sourceLanguage: java

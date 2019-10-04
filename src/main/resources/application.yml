@@ -1,0 +1,6 @@
+micronaut:
+  application:
+    name: micronault-microservices
+
+  server:
+    port: 8080
